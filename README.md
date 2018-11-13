@@ -2,7 +2,7 @@
 
 Reference : https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf, www.github.com/aswinsureshk/chordprotocol
 
-The aim is to handle any node failure that may occur in the project www.github.com/aswinsureshk/chordprotocol project.
+The aim is to handle any node failure that may occur in the www.github.com/aswinsureshk/chordprotocol project.
 
 Looking to simulate the solution proposed in the paper "Chord: A Scalable Peer-to-peer Lookup Protocol
 for Internet Applications" by Ion Stoica, Robert Morris, David Liben-Nowell, David R. Karger, M. Frans Kaashoek, Frank Dabek, Hari Balakrishnan in Elixir and using the GenServer Supervisor Design model.
